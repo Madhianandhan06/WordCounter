@@ -14,3 +14,5 @@
 - **CSS** – Responsive + clean UI  
 - **JavaScript (Vanilla)** – DOM manipulation, regex, localStorage  
 
+Watch it live✅
+site link: https://madhianandhan06.github.io/WordCounter/
